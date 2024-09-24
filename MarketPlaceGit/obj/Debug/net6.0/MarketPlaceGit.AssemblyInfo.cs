@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketPlaceGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75cfeed624ce7fc3cc5a3fff9cb675a1615043fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa83e6d29450f8625c1c855c90a1af581149cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketPlaceGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketPlaceGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
