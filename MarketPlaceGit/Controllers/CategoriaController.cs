@@ -53,6 +53,14 @@ namespace MarketPlaceGit.Controllers
 
             return RedirectToAction("Error", "Home");
         }
+
+        public JsonResult ObtenerCategorias()
+        {
+            string comSql = "Exec listarCategorias";
+            IEnumerable<Categoria> listaProv = _db.Categorias.FromSqlRaw(comSql);
+
+            return Json(listaProv.ToList());
+        }
         public IActionResult ExitoRegistro()
         {
             return View();

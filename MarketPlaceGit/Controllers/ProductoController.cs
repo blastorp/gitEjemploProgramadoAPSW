@@ -63,7 +63,7 @@ namespace MarketPlaceGit.Controllers
         public JsonResult ObtenerProductos()
         {
             string comSql = "Exec listarProductos";
-            IEnumerable<ItemProvCantDistrito> listaProv = _db.ProvCantDistPadre.FromSqlRaw(comSql);
+            IEnumerable<Producto> listaProv = _db.Productos.FromSqlRaw(comSql);
 
             return Json(listaProv.ToList());
         }
