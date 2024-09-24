@@ -12,6 +12,7 @@ public class ApplicationDbContext : DbContext
     }
     public DbSet<Categoria> Categorias { get; set; }
     public DbSet<Producto> Productos { get; set; }
+    public DbSet<ProductoCat> ProductosCat { get; set; }
     public DbSet<Categoria> Variaciones { get; set; }
     public DbSet<Categoria> ValorVariacion { get; set; }
 
