@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Categoria
+<form method="post">
+
+    <h3 class="text-danger">Nueva Categoria</h3>
+    <h5 class="text-danger">Favor Registrar los datos de la Categoria</h5>
+    <div class="form-floating mb-3">
+        <input type="text"
+               class="form-control"
+               id="inputNombreCategoria"
+               asp-for="NombreCategoria"
+               required
+               placeholder="Nombre Categoria" />
+        <label for="inputNombreCategoria">Nombre Plan</label>
+    </div>
+    
+
+            <p class="text-danger fw-bold text-end p-3" id="pCostoFijo">Costo Fijo Total</p>
+        </div>
+    </div>
+    <div class="container mt-3">
+        <button type="submit" name="buttonRegistrar" class=" mb-3 col-12 btn btn-primary btn-block">Guardar Categoria</button>
+        <a asp-controller="Usuario" asp-action="DashAdmin" class=" mb-1 col-12 btn btn-info" style="display: inline-block;">Cancelar</a>
+
+    </div>
+
+</form>

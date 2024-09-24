@@ -1,0 +1,100 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Producto
+<form method="post">
+
+    <h3 class="text-danger">Nuevo Producto</h3>
+    <h5 class="text-danger">Favor Registrar los Datos del Producto</h5>
+    <div class="form-floating mb-3">
+        <input type="text"
+               class="form-control"
+               id="inputIdCategoria"
+               asp-for="IdCategoria"
+               required
+               placeholder="IdCategoria" />
+        <label for="inputNombreProducto">Id Categoria</label>
+    </div><div class="form-floating mb-3">
+        <input type="text"
+               class="form-control"
+               id="inputNombreProducto"
+               asp-for="Nombre"
+               required
+               placeholder="Nombre Producto" />
+        <label for="inputNombreProducto">Nombre Producto</label>
+    </div>
+    <div class="form-group">
+        <label for="inputDescripcion">UrlImagen</label>
+        <textarea asp-for="UrlImagen"
+                  required
+                  class="form-control"
+                  name="UrlImagen"
+                  id="UrlImagen"
+                  rows="5"
+                  placeholder="UrlImagen"></textarea>
+    </div> 
+    
+    <div class="form-group">
+        <label for="inputDescripcion">Descripcion</label>
+        <textarea asp-for="Descripcion"
+                  required
+                  class="form-control"
+                  name="Descripcion"
+                  id="Descripcion"
+                  rows="5"
+                  placeholder="Descripcion"></textarea>
+    </div>
+
+
+    <div class="form-floating mb-3">
+        <input type="range"
+               min="10"
+               max="1000"
+               step="10"
+               class="form-control mt-3 form-range"
+               id="inputPrecio"
+               asp-for="Precio"
+               required
+               placeholder="Precio  "
+               required| />
+
+        <label for="inputPrecio">
+            Precio:
+            <span class="text-danger" id="displayCantMaxPersonas">55</span>
+        </label>
+    </div>
+
+    
+
+
+  
+
+  @*   <div class="form-group">
+        <label class="form-label mt-4" for="inputCosto">Costo</label>
+        <div class="form-group">
+            <div class="input-group mb-3">
+                <span class="input-group-text">CRC</span>
+                <input type="number"
+                       class="form-control"
+                       aria-label="Amount (to the nearest colon)"
+                       id="inputCosto"
+                       asp-for="Precio"
+                       required />
+                <span class="input-group-text">.00</span>
+
+
+            </div>
+
+            <p class="text-danger fw-bold text-end p-3" id="pCostoFijo">Costo Fijo Total</p>
+        </div>
+    </div> *@
+
+    <div class="container mt-3">
+        <button type="submit" name="buttonRegistrar" class=" mb-3 col-12 btn btn-primary btn-block">Guardar Producto</button>
+        <a asp-controller="Usuario" asp-action="DashAdmin" class=" mb-1 col-12 btn btn-info" style="display: inline-block;">Cancelar</a>
+
+    </div>
+
+</form>

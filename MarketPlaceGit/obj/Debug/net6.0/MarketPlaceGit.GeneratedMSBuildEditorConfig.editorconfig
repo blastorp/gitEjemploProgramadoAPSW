@@ -18,12 +18,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\JDEM_\source\repos\MarketPlaceGit\MarketPlaceGit
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Categoria/AgregarCategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEFncmVnYXJDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Categoria/ExitoRegistro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEV4aXRvUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Producto/AgregarProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQWdyZWdhclByb2R1Y3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Producto/ExitoRegistro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRXhpdG9SZWdpc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JDEM_/source/repos/MarketPlaceGit/MarketPlaceGit/Views/Shared/Error.cshtml]
