@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\producto\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\producto\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\categoria\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\categoria\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\producto\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\producto\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\views\\categoria\\exitoregistro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\models\\valorvariacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|c:\\users\\jdem_\\source\\repos\\marketplacegit\\marketplacegit\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9EFC8B-BFD5-4FCD-AEF3-0ED79BE613C5}|MarketPlaceGit\\MarketPlaceGit.csproj|solutionrelative:marketplacegit\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,45 +70,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
-              "RelativeToolTip": "MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MarketPlaceGit\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAQwPoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T23:38:12.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExitoRegistro.cshtml",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
-              "RelativeToolTip": "MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T23:12:40.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AgregarCategoria.cshtml",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
-              "RelativeToolTip": "MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T22:28:41.784Z",
+              "WhenOpened": "2024-09-24T03:58:28.606Z",
               "EditorCaption": ""
             },
             {
@@ -119,53 +93,104 @@
               "RelativeDocumentMoniker": "MarketPlaceGit\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "MarketPlaceGit\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T22:15:32.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "MarketPlaceGit\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T22:15:46.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
+              "RelativeToolTip": "MarketPlaceGit\\Views\\Producto\\AgregarProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:38:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\appsettings.json",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\appsettings.json",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\appsettings.json",
-              "RelativeToolTip": "MarketPlaceGit\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T22:10:03.019Z",
+              "Title": "ExitoRegistro.cshtml",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
+              "RelativeToolTip": "MarketPlaceGit\\Views\\Categoria\\ExitoRegistro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:12:40.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MarketPlaceGit\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T03:56:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Producto.cs",
+              "RelativeToolTip": "MarketPlaceGit\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:53:47.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MarketPlaceGit\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABCAAAAAAAAAA==",
+              "Title": "AgregarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "RelativeToolTip": "MarketPlaceGit\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T22:33:30.242Z",
+              "WhenOpened": "2024-09-23T22:28:41.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlaceGit\\Program.cs",
+              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Program.cs",
+              "RelativeToolTip": "MarketPlaceGit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:37:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ExitoRegistro.cshtml",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Views\\Producto\\ExitoRegistro.cshtml",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Views\\Producto\\ExitoRegistro.cshtml",
@@ -173,12 +198,11 @@
               "RelativeToolTip": "MarketPlaceGit\\Views\\Producto\\ExitoRegistro.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T23:11:04.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T23:11:04.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\ErrorViewModel.cs",
@@ -186,12 +210,11 @@
               "RelativeToolTip": "MarketPlaceGit\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:29:25.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T21:29:25.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\Categoria.cs",
@@ -199,12 +222,11 @@
               "RelativeToolTip": "MarketPlaceGit\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:09:39.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:09:39.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Data\\ApplicationDbContext.cs",
@@ -212,25 +234,11 @@
               "RelativeToolTip": "MarketPlaceGit\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:19:51.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:19:51.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Program.cs",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Program.cs",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Program.cs",
-              "RelativeToolTip": "MarketPlaceGit\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:37:14.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ValorVariacion.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\ValorVariacion.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\ValorVariacion.cs",
@@ -238,12 +246,11 @@
               "RelativeToolTip": "MarketPlaceGit\\Models\\ValorVariacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:21:42.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T20:21:42.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Variaciones.cs",
               "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Variaciones.cs",
               "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\Variaciones.cs",
@@ -251,21 +258,7 @@
               "RelativeToolTip": "MarketPlaceGit\\Models\\Variaciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:20:18.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "MarketPlaceGit\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\Models\\Producto.cs",
-              "RelativeToolTip": "MarketPlaceGit\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T03:53:47.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T20:20:18.129Z"
             }
           ]
         }

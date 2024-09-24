@@ -57,12 +57,12 @@
                id="inputPrecio"
                asp-for="Precio"
                required
-               placeholder="Precio  "
+               placeholder="Precio"
                required| />
 
         <label for="inputPrecio">
             Precio:
-            <span class="text-danger" id="displayCantMaxPersonas">55</span>
+            <span class="text-danger" id="displayPrecio">550</span>
         </label>
     </div>
 
@@ -98,3 +98,13 @@
     </div>
 
 </form>
+
+<script>
+    const rangeInput = document.getElementById("inputPrecio");
+    const valueDisplay = document.getElementById("displayPrecio");
+
+    rangeInput.addEventListener("input", function () {
+      valueDisplay.textContent = rangeInput.value;
+    });
+ 
+</script>
