@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9p95OhKICH8=",
+  "dgSpecHash": "OCcGy7NMgbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\MarketPlaceGit.csproj",
+  "projectFilePath": "C:\\Users\\JDEM_\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\MarketPlaceGit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JDEM_\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\JDEM_\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

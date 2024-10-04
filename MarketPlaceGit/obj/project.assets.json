@@ -2978,19 +2978,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JDEM_\\.nuget\\packages\\": {}
+    "C:\\Users\\JDEM_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\MarketPlaceGit.csproj",
+      "projectUniqueName": "C:\\Users\\JDEM_\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\MarketPlaceGit.csproj",
       "projectName": "MarketPlaceGit",
-      "projectPath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\MarketPlaceGit.csproj",
+      "projectPath": "C:\\Users\\JDEM_\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\MarketPlaceGit.csproj",
       "packagesPath": "C:\\Users\\JDEM_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\obj\\",
+      "outputPath": "C:\\Users\\JDEM_\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\JDEM_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
